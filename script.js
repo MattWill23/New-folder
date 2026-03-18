@@ -18,3 +18,16 @@ const superLong = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ,13 ,14, 15];
 console.log(superLong.length);
 
 superLong[superLong.length - 1] = 100000;
+
+console.log(fortune[fortune.length-1]);
+fortune.push("sometimes");
+console.log(fortune[fortune.length-1]);
+
+
+function printFirstAndThird(arr){
+console.log(arr[0]);
+console.log(arr[2]);
+
+}
+
+printf
